@@ -1,1 +1,2 @@
-# FANTA-Website-Gsap-Scroll-Triggered
+# Fanta Website
+Created By Saifullah Khan
